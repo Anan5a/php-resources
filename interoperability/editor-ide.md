@@ -63,4 +63,4 @@ Most IDEs listed above also take care of client side development part i.e. HTML,
 
 * [Dreamweaver](http://www.adobe.com/si/products/dreamweaver.html) - proprietary tool
 * [KompoZer](http://kompozer.net/) - free web authoring system that combines web file management and easy-to-use WYSIWYG web page editing.
-* [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE also useful for complex complex client-side development and also backend Node.js development.
+* [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE also useful for complex client-side development and also backend Node.js development.
