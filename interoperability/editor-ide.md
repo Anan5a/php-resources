@@ -46,6 +46,7 @@ Alphabetical list of good text editors for PHP:
 - [ConTEXT](http://www.contexteditor.org/)
 - [Emacs](http://www.gnu.org/software/emacs/)
 - [Geany](http://www.geany.org/) - text editor using GTK2 toolkit
+- [jEdit](http://jedit.org/)
 - [Kate](http://kate-editor.org/)
 - [Komodo Edit](http://komodoide.com/)
 - [Light Table](http://lighttable.com/)
